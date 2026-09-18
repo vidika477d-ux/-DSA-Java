@@ -1,7 +1,7 @@
 
 import java.util.*;
 //implementation of stack by array list
-public  class StackLinkedList
+public  class Stack
 {
     static class StackB{
         static ArrayList<Integer> list=new ArrayList<>();
